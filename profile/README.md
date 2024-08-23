@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About MedX
+### 🚀 About MedX
 
 MedX is a collaborative space where the medical community can engage with technology in a meaningful way. Whether you're a medical student, a healthcare professional, or a tech enthusiast with a passion for health tech, MedX is the place for you to:
 
@@ -21,7 +21,7 @@ MedX is a collaborative space where the medical community can engage with techno
 
 ---
 
-## 🌱 Our Startup Journey
+### 🌱 Our Startup Journey
 
 MedX is more than just a project—it's a startup in its early stages, and we're fully committed to an open and transparent development process. From initial ideation to product launch, we're documenting and sharing every step of our journey.
 
@@ -33,7 +33,7 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 
 ---
 
-## 👥 Meet the Founding Contributors
+### 👥 Meet the Founding Contributors
 
 MedX was initiated by a group of passionate med people who saw the potential for a stronger connection between healthcare and technology:
 
@@ -45,15 +45,16 @@ We’re a small team with big ambitions, and we’re looking for like-minded ind
 
 ---
 
-## 👥 Meet the Other Contributors
+### 👥 Meet the Other Contributors
 
 - [**Dadmehr**](https://github.com/BDadmehr0)
+- you can be the next!
 
 MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
 
 ---
 
-## 🌐 Connect with Us
+### 🌐 Connect with Us
 
 - **Website**: [medxmedia.net](http://www.medxmedia.net) (Launching Soon!)
 - **Telegram**: [@medxmedia_net](https://t.me/medxmedia_net)
