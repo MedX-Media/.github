@@ -33,9 +33,9 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 
 ---
 
-## 👥 Meet the Founders
+## 👥 Meet the Founding Contributors
 
-MedX was initiated by a group of passionate individuals who saw the potential for a stronger connection between medicine and technology:
+MedX was initiated by a group of passionate med people who saw the potential for a stronger connection between healthcare and technology:
 
 - [**Sina**](https://github.com/sinusealpha)
 - [**Aref**](https://github.com/aref-asadi)
