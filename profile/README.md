@@ -45,6 +45,14 @@ We’re a small team with big ambitions, and we’re looking for like-minded ind
 
 ---
 
+## 👥 Meet the Other Contributors
+
+- [**Dadmehr**](https://github.com/BDadmehr0)
+
+MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
+
+---
+
 ## 🌐 Connect with Us
 
 - **Website**: [medxmedia.net](http://www.medxmedia.net) (Launching Soon!)
