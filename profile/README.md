@@ -35,22 +35,13 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 
 ### 👥 Meet the Founding Contributors
 
-MedX was initiated by a group of passionate med people who saw the potential for a stronger connection between healthcare and technology:
-
-- [**Sina**](https://github.com/sinusealpha)
-- [**Aref**](https://github.com/aref-asadi)
-- [**Mohammad Hossein**](https://github.com/hossein-kazzemi)
-
-We’re a small team with big ambitions, and we’re looking for like-minded individuals to join us on this journey.
-
----
-
-### 👥 Meet the Other Contributors
-
+- [**Sina**](https://github.com/sinusealpha) (founding contributor)
+- [**Aref**](https://github.com/aref-asadi) (founding contributor)
+- [**Mohammad Hossein**](https://github.com/hossein-kazzemi) (founding contributor)
 - [**Dadmehr**](https://github.com/BDadmehr0)
 - you can be the next!
 
-MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
+As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
 
 ---
 
