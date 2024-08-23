@@ -33,11 +33,11 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 
 ---
 
-### 👥 Meet the Founding Contributors
+### 👥 Meet the Contributors
 
-- [**Sina**](https://github.com/sinusealpha) (founding contributor)
-- [**Aref**](https://github.com/aref-asadi) (founding contributor)
-- [**Mohammad Hossein**](https://github.com/hossein-kazzemi) (founding contributor)
+- [**Sina**](https://github.com/sinusealpha)
+- [**Aref**](https://github.com/aref-asadi)
+- [**Mohammad Hossein**](https://github.com/hossein-kazzemi)
 - [**Dadmehr**](https://github.com/BDadmehr0)
 - you can be the next!
 
