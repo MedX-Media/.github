@@ -1,3 +1,5 @@
+[persian version | نسخه فارسی]()
+
 # Welcome to MedX 🌟
 
 **MedX** is an open-source startup with a mission to revolutionize healthcare by empowering the medical community to engage with cutting-edge technology. MedX was founded with the belief that the future of healthcare lies in the seamless integration of medicine and technology. We aim to provide a platform where anyone from the medical field can gain insights into health tech, contribute to open-source projects, and drive innovations that will shape the healthcare of tomorrow.
