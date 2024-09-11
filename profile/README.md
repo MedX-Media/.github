@@ -41,6 +41,7 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 - [**Aref**](https://github.com/aref-asadi)
 - [**Mohammad Hossein**](https://github.com/hossein-kazzemi)
 - [**Dadmehr**](https://github.com/BDadmehr0)
+- [Benyamin](https://github.com/BenyGH2003)
 - you can be the next!
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
