@@ -45,13 +45,13 @@ This is a list sorted from day one, including all types of contributions!
 - [**Benyamin**](https://github.com/BenyGH2003)
 - you can be the next!
 
-As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution guild](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTION-GUIDE.md) document and start your journey.
+As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) document and start your journey.
 
 ---
 
 ### 🌐 Connect with Us
 
-- **Website**: [medxmedia.net](http://www.medxmedia.net) (Launching Soon!)
+- **Website**: [medxmedia.net](http://www.medxmedia.net)
 - **Telegram**: [@medxmedia_net](https://t.me/medxmedia_net)
 - **Instagram**: [@medxmedia_net](https://www.instagram.com/medxmedia_net)
 - **LinkedIn**: [MedX on LinkedIn](https://www.linkedin.com/company/medxstartup)
