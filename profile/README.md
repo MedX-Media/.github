@@ -37,6 +37,7 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 
 ### 👥 Meet the Contributors
 
+This is a list sorted from day one, including all types of contributions!
 - [**Sina**](https://github.com/sinusealpha)
 - [**Aref**](https://github.com/aref-asadi)
 - [**Mohammad Hossein**](https://github.com/hossein-kazzemi)
