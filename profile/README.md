@@ -38,15 +38,15 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 ### 👥 Meet the Contributors
 
 This is a list sorted from day one, including all types of contributions!
-- [**Sina**](https://github.com/sinusealpha)
-- [**Aref**](https://github.com/aref-asadi)
-- [**Mohammad-Hossein**](https://github.com/hossein-kazzemi)
-- [**Dadmehr**](https://github.com/BDadmehr0)
-- [**Benyamin**](https://github.com/BenyGH2003)
-- [**Ava**](https://github.com/AvaKhA)
-- **Shayan**
-- **Mohammad**
-- you can be the next!
+1. [**Sina**](https://github.com/sinusealpha)
+2. [**Aref**](https://github.com/aref-asadi)
+3. [**Mohammad-Hossein**](https://github.com/hossein-kazzemi)
+4. [**Dadmehr**](https://github.com/BDadmehr0)
+5. [**Benyamin**](https://github.com/BenyGH2003)
+6. [**Ava**](https://github.com/AvaKhA)
+7. **Shayan**
+8. **Mohammad**
+9. you can be the next!
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) document and start your journey.
 
