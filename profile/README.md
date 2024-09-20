@@ -44,8 +44,8 @@ This is a list sorted from day one, including all types of contributions!
 4. [**Dadmehr**](https://github.com/BDadmehr0)
 5. [**Benyamin**](https://github.com/BenyGH2003)
 6. [**Ava**](https://github.com/AvaKhA)
-7. **Shayan**
-8. **Mohammad**
+7. [**Mohammad**](https://github.com/hamidics50)
+8. **Shayan**
 9. you can be the next!
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) document and start your journey.
