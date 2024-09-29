@@ -50,7 +50,7 @@ This is a list sorted from day one, including all types of contributions!
 10. [**Melina**]
 11. you can be the next!
 
-As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) document and start your journey.
+As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!
 
 ---
 
