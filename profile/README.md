@@ -48,7 +48,7 @@ This is a list sorted from day one, including all types of contributions!
 8. [**Shayan**](https://github.com/ShayanpharmaKUMS)
 9. [**Sahba**](https://github.com/saidinejad)
 10. [**Melina**]
-11. [**sina**]
+11. [**Sina**]
 12. [**Fatemeh**]
 13. [**Sina**]
 14. you can be the next!
