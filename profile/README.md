@@ -51,7 +51,8 @@ This is a list sorted from day one, including all types of contributions!
 11. [**Sina**]
 12. [**Fatemeh**]
 13. [**Sina**]
-14. you can be the next!
+14. [**Ali**](https://github.com/S-AliNajafi)
+15. you can be the next!
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!
 
