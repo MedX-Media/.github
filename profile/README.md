@@ -49,8 +49,8 @@ This is a list sorted from day one, including all types of contributions!
 9. [**Sahba**](https://github.com/saidinejad)
 10. [**Melina**]
 11. [**Sina**]
-12. [**Fatemeh**]
-13. [**Sina**]
+12. [**Fatemeh**](https://www.linkedin.com/in/ftme-zakerian/)
+13. [**Sina**](https://github.com/srssina)
 14. [**Ali**](https://github.com/S-AliNajafi)
 15. [**Negin**]
 16. you can be the next!
