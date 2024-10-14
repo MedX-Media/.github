@@ -38,8 +38,8 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 ### 👥 Meet the Contributors
 
 This is a list sorted from day one, including all types of contributions!
-| Number | Name                     | Role               | Achievements            | Links                              |
-| ------ | ------------------------ | ------------------ | ----------------------- | ---------------------------------- |
+| Number | Name                     | Role               | Achievements            | Links                 |
+| ------ | ------------------------ | ------------------ | ----------------------- | --------------------- |
 | 1      | Sina Moradi              | Writer/Developer     |   | [Github](https://github.com/sinusealpha), [Linkedin](https://www.linkedin.com/in/sinusealpha/) |
 | 2      | Aref Asadi               | Developer            |   | [Github](https://github.com/aref-asadi), [Linkedin]() |
 | 3      | Mohammad Hossein Kazemi  | Developer            |   | [Github](https://github.com/hossein-kazzemi) |
