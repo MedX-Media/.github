@@ -38,6 +38,31 @@ MedX is more than just a project—it's a startup in its early stages, and we're
 ### 👥 Meet the Contributors
 
 This is a list sorted from day one, including all types of contributions!
+| Number | Name                     | Role                 | Achievements                 | Links                                            |
+| ------ | ------------------------ | -------------------- | ---------------------------- | ------------------------------------------------ |
+| 1      | Sina Moradi              | Writer/Developer     |                              | [Github](https://github.com/sinusealpha), [Linkedin](https://www.linkedin.com/in/sinusealpha/), [Website](https://sinusealpha.github.io/)|
+| 2      | Aref Asadi               | Developer            | ---------------------------- | [Github](https://github.com/aref-asadi), [Linkedin]() |
+| 3      | Mohammad Hossein Kazemi  | Developer            | ---------------------------- | [Github](https://github.com/hossein-kazzemi) |
+| 4      | Dadmehr                  | Developer            | ---------------------------- | [Github](https://github.com/BDadmehr0) |
+| 5      | Benyamin Gheiji          | Writer/Developer     | ---------------------------- | [Github](https://github.com/BenyGH2003), Linkedin |
+| 6      | Ava Khalili              | Writer               | ---------------------------- | [Github](https://github.com/AvaKhA), Linkedin |
+| 7      | Mohammad Hamidi          | Writer               | ---------------------------- | [Github](https://github.com/hamidics50) |
+| 8      | Shayan Bakhshi           | Writer               | ---------------------------- | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
+| 9      | Sahba Saidinejad         | Writer               | ---------------------------- | [Github](https://github.com/saidinejad), Linkedin |
+| 10     | Melina Sadat Afsari      | Writer               | ---------------------------- | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
+| 11     | Sina Khosravi            | Writer               | ---------------------------- | [Github](https://github.com/khosravisina), Linkedin |
+| 12     | Fatemeh Zakerian         | Writer               | ---------------------------- | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
+| 13     | Sina Rahimian            | Writer               | ---------------------------- | [Github](https://github.com/srssina), Linkedin |
+| 14     | Ali Najafi               | Writer               | ---------------------------- | [Github](https://github.com/S-AliNajafi), Linkedin         |
+| 15     | Negin Vaez               | Writer               | ---------------------------- |   |
+| 16     | Farnad Rahimizadeh       | Writer               | ---------------------------- | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
+| 17     | Ghazal Hemmati           | Writer               | ---------------------------- |   |
+| 18     | Iman Mohammadi           | Writer               | ---------------------------- | [Github](https://github.com/Imanm02), Linkedin |
+| 19     | Arman Gorji              | Writer               | ---------------------------- | [Github](https://github.com/gorjiarman), Linkedin |
+| 20     | Alireza Zare             | Writer               | ---------------------------- |   |
+| ------ | ------------------------ | -------------------- | ---------------------------- | ------------------------------------------------ |
+
+
 1. [**Sina**](https://github.com/sinusealpha)
 2. [**Aref**](https://github.com/aref-asadi)
 3. [**Mohammad-Hossein**](https://github.com/hossein-kazzemi)
