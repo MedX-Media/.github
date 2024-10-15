@@ -48,7 +48,7 @@ This is a list sorted from day one, including all types of contributions!
 | 6      | Ava Khalili              | Writer               |   | [Github](https://github.com/AvaKhA), Linkedin |
 | 7      | Mohammad Hamidi          | Writer               |   | [Github](https://github.com/hamidics50) |
 | 8      | Shayan Bakhshi           | Writer               |   | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
-| 9      | Sahba Saidinejad         | Writer               |   | [Github](https://github.com/saidinejad), Linkedin |
+| 9      | Sahba Saidinejad         | Writer               |   | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
 | 10     | Melina Sadat Afsari      | Writer               |   | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
 | 11     | Sina Khosravi            | Writer               |   | [Github](https://github.com/khosravisina), Linkedin |
 | 12     | Fatemeh Zakerian         | Writer               |   | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
