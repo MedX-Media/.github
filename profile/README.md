@@ -61,7 +61,7 @@ This is a list sorted from day one, including all types of contributions!
 | 19     | Arman Gorji              | Certified Writer               |   | [Github](https://github.com/gorjiarman), Linkedin |
 | 20     | Alireza Zare             | Certified Writer               |   |   |
 | 21     | Amir Mahdi Dadashi       | Certified Writer               |   |   |
-| ------ | ------------------------ | -------------------- | ---------------------------- | ------------------------------------------------ |
+| 22 |  |  |  |  |
 
 You can be the next!
 
