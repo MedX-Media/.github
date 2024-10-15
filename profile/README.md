@@ -48,7 +48,7 @@ This is a list sorted from day one, including all types of contributions!
 | 6      | Ava Khalili              | Writer               |   | [Github](https://github.com/AvaKhA), Linkedin |
 | 7      | Mohammad Hamidi          | Writer               |   | [Github](https://github.com/hamidics50) |
 | 8      | Shayan Bakhshi           | Writer               |   | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
-| 9      | Sahba Saidinejad         | Writer               |   | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
+| 9      | Sahba Saidinejad         | Writer/Developer     |   | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
 | 10     | Melina Sadat Afsari      | Writer               |   | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
 | 11     | Sina Khosravi            | Writer               |   | [Github](https://github.com/khosravisina), Linkedin |
 | 12     | Fatemeh Zakerian         | Writer               |   | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
@@ -60,6 +60,8 @@ This is a list sorted from day one, including all types of contributions!
 | 18     | Iman Mohammadi           | Writer               |   | [Github](https://github.com/Imanm02), Linkedin |
 | 19     | Arman Gorji              | Writer               |   | [Github](https://github.com/gorjiarman), Linkedin |
 | 20     | Alireza Zare             | Writer               |   |   |
+| 21     | Amir Mahdi Dadashi       | Writer               |   |   |
+
 | ------ | ------------------------ | -------------------- | ---------------------------- | ------------------------------------------------ |
 
 You can be the next!
