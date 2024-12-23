@@ -23,18 +23,6 @@ Let's shape the future of healthcare!"
 
 ---
 
-### 🌱 Our Startup Journey
-
-MedX is more than just a project—it's a startup in its early stages, and we're fully committed to an open and transparent development process. From initial ideation to product launch, we're documenting and sharing every step of our journey.
-
-### What We’re Working On:
-
-- **MedX Platform**: Our flagship project, where medical professionals can explore, learn, and contribute to health tech.
-- **Community Building**: Engaging with a global community of med-tech enthusiasts through social media, newsletters, and forums.
-- **Open-Source Contributions**: Developing and releasing tools, resources, and projects that anyone can contribute to or benefit from.
-
----
-
 ### 👥 Meet the Contributors
 
 This is a list sorted from day one, including all types of contributions!
@@ -52,16 +40,13 @@ This is a list sorted from day one, including all types of contributions!
 | 10     | Melina Sadat Afsari      | Certified Writer               |   | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
 | 11     | Sina Khosravi            | Certified Writer               |   | [Github](https://github.com/khosravisina), Linkedin |
 | 12     | Fatemeh Zakerian         | Certified Writer               |   | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
-| 13     | Sina Rahimian            | Certified Writer               |   | [Github](https://github.com/srssina), Linkedin |
-| 14     | Ali Najafi               | Certified Writer               |   | [Github](https://github.com/S-AliNajafi), Linkedin         |
-| 15     | Negin Vaez               | Certified Writer               |   |   |
-| 16     | Farnad Rahimizadeh       | Certified Writer               |   | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
-| 17     | Ghazal Hemmati           | Certified Writer               |   |   |
-| 18     | Iman Mohammadi           | Certified Writer               |   | [Github](https://github.com/Imanm02), Linkedin |
-| 19     | Arman Gorji              | Certified Writer               |   | [Github](https://github.com/gorjiarman), Linkedin |
-| 20     | Alireza Zare             | Certified Writer               |   |   |
-| 21     | Amir Mahdi Dadashi       | Certified Writer               |   |   |
-| 22 |  |  |  |  |
+| 13     | Ali Najafi               | Certified Writer               |   | [Github](https://github.com/S-AliNajafi), Linkedin         |
+| 14     | Negin Vaez               | Certified Writer               |   |   |
+| 15     | Farnad Rahimizadeh       | Certified Writer               |   | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
+| 16     | Arman Gorji              | Certified Writer               |   | [Github](https://github.com/gorjiarman), Linkedin |
+| 17     | Amir Mahdi Dadashi       | Certified Writer               |   |   |
+| 18 | Fatemeh Zahra Seyed Kolbadi  | Journal Club Preseontor        |   | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| 19 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
 
 You can be the next!
 
