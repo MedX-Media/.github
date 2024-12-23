@@ -2,24 +2,24 @@
 
 # Welcome to MedX 🌟
 
-**MedX** is an open-source startup with a mission to revolutionize healthcare by empowering the medical community to engage with cutting-edge technology. MedX was founded with the belief that the future of healthcare lies in the seamless integration of medicine and technology. We aim to provide a platform where anyone from the medical field can gain insights into health tech, contribute to open-source projects, and drive innovations that will shape the healthcare of tomorrow.
+**MedX** is a community dedicated to revolutionizing healthcare through open-source technologies. We brings together physicians, developers, researchers, and all those passionate about leveraging technology to improve healthcare.
 
----
+First time here? [Book an intro meeting](https://calendly.com/medxmedia1/intro-meetings) with a community manager.
 
-### 🚀 About MedX
+Get started with:
 
-MedX is a collaborative space where the medical community can engage with technology in a meaningful way. Whether you're a medical student, a healthcare professional, or a tech enthusiast with a passion for health tech, MedX is the place for you to:
+- Following us on [Twitter](https://x.com/MedX_Media), [Linkedin](https://www.linkedin.com/company/medxstartup), and [Telegram](https://t.me/MedX_Media).
+- Joining our public Telegram [MedX Society Group](https://t.me/+Q3hJZwT1vWM2N2Q0).
+- [Want to Join our community?]()
 
-- **Explore** the latest trends and innovations in health tech.
-- **Learn** through shared knowledge and open-source projects.
-- **Share** your insights, research, and projects with a broader community.
-- **Contribute** to open-source projects that aim to revolutionize healthcare.
+Let's shape the future of healthcare!"
 
 ### Our Core Values:
 
-- **Open Collaboration**: We believe in the power of community and open-source collaboration to drive innovation.
-- **Empowerment**: We strive to empower medical professionals to take an active role in the tech-driven transformation of healthcare.
-- **Transparency**: As an open startup, we share our journey, progress, and challenges with our community.
+- **Open Source** Collaboration: We thrive on the collective power of the *open* source community to drive innovation in healthcare.
+- **Community-Driven**: We are an *independent* entity, fostering a collaborative environment free from institutional constraints.
+- **Empowering** Healthcare Professionals: We empower medical professionals to actively shape the future of healthcare *through technology*.
+- **Transparent and Collaborative**: We embrace transparency, *sharing* our journey, progress, and challenges openly with the community.
 
 ---
 
