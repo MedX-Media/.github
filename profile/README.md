@@ -32,23 +32,21 @@ This is a list sorted from day one, including all types of contributions!
 | 2      | Aref Asadi               | Founding Contributor |   | [Github](https://github.com/aref-asadi), [Linkedin]() |
 | 3      | Mohammad Hossein Kazemi  | Developer            |   | [Github](https://github.com/hossein-kazzemi) |
 | 4      | Dadmehr                  | Developer            |   | [Github](https://github.com/BDadmehr0) |
-| 5      | Benyamin Gheiji          | Certified Writer - Developer   |   | [Github](https://github.com/BenyGH2003), Linkedin |
-| 6      | Ava Khalili              | Certified Writer               |   | [Github](https://github.com/AvaKhA), Linkedin |
-| 7      | Mohammad Hamidi          | Certified Writer               |   | [Github](https://github.com/hamidics50) |
-| 8      | Shayan Bakhshi           | Certified Writer               |   | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
-| 9      | Sahba Saidinejad         | Certified Writer - Developer   |   | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
-| 10     | Melina Sadat Afsari      | Certified Writer               |   | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
-| 11     | Sina Khosravi            | Certified Writer               |   | [Github](https://github.com/khosravisina), Linkedin |
-| 12     | Fatemeh Zakerian         | Certified Writer               |   | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
-| 13     | Ali Najafi               | Certified Writer               |   | [Github](https://github.com/S-AliNajafi), Linkedin         |
-| 14     | Negin Vaez               | Certified Writer               |   |   |
-| 15     | Farnad Rahimizadeh       | Certified Writer               |   | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
-| 16     | Arman Gorji              | Certified Writer               |   | [Github](https://github.com/gorjiarman), Linkedin |
-| 17     | Amir Mahdi Dadashi       | Certified Writer               |   |   |
-| 18 | Fatemeh Zahra Seyed Kolbadi  | Journal Club Preseontor        |   | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| 5      | Benyamin Gheiji          | Writer / Presentor   |   | [Github](https://github.com/BenyGH2003), Linkedin |
+| 6      | Ava Khalili              | Writer               |   | [Github](https://github.com/AvaKhA), Linkedin |
+| 7      | Mohammad Hamidi          | Writer               |   | [Github](https://github.com/hamidics50) |
+| 8      | Shayan Bakhshi           | Writer               |   | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
+| 9      | Sahba Saidinejad         | Writer / Presentor   |   | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
+| 10     | Melina Sadat Afsari      | Writer               |   | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
+| 11     | Sina Khosravi            | Writer               |   | [Github](https://github.com/khosravisina), Linkedin |
+| 12     | Fatemeh Zakerian         | Writer               |   | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
+| 13     | Ali Najafi               | Writer               |   | [Github](https://github.com/S-AliNajafi), Linkedin         |
+| 14     | Negin Vaez               | Writer               |   |   |
+| 15     | Farnad Rahimizadeh       | Writer               |   | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
+| 16     | Arman Gorji              | Writer / Presentor               |   | [Github](https://github.com/gorjiarman), Linkedin |
+| 17     | Amir Mahdi Dadashi       | Writer               |   |   |
+| 18 | Fatemeh Zahra Seyed Kolbadi  | Preseontor        |   | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
 | 19 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
-
-You can be the next!
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!
 
