@@ -45,7 +45,7 @@ This is a list sorted from day one, including all types of contributions!
 | 15     | Farnad Rahimizadeh       | Writer               |   | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
 | 16     | Arman Gorji              | Writer / Presentor               |   | [Github](https://github.com/gorjiarman), Linkedin |
 | 17     | Amir Mahdi Dadashi       | Writer               |   |   |
-| 18 | Fatemeh Zahra Seyed Kolbadi  | Preseontor        |   | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| 18     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor        |   | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
 | 19 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!
