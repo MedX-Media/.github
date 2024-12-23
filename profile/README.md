@@ -16,10 +16,10 @@ Let's shape the future of healthcare!"
 
 ### Our Core Values:
 
-- **Open-Source** Collaboration: We thrive on the collective power of the *open* source community to drive innovation in healthcare.
+- **Independent & Open-Source**: We thrive on the collective power of the *open* source community to drive innovation in healthcare.
 - **Community-Driven**: We are an *independent* entity, fostering a collaborative environment free from institutional constraints.
 - **Empowering**: We empower medical professionals to actively shape the future of healthcare *through technology*.
-- **Transparent and Collaborative**: We embrace *sharing* our journey, progress, and challenges openly with the community.
+- **Collaboration**: We embrace *sharing* our journey, progress, and challenges openly with the community.
 
 ---
 
