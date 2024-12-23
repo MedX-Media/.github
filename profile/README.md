@@ -2,7 +2,7 @@
 
 # Welcome to MedX 🌟
 
-**MedX** is a community brings together physicians, developers, researchers, and all those passionate about leveraging technology to improve healthcare.
+**MedX** is a community brings together medical professionals, students, developers, researchers, and all those passionate about leveraging technology to improve healthcare.
 
 First time here? [Book an intro meeting](https://calendly.com/medxmedia1/intro-meetings) with a community manager.
 
