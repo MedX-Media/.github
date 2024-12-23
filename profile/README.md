@@ -10,7 +10,7 @@ Get started with:
 
 - Following us on [Twitter](https://x.com/MedX_Media), [Linkedin](https://www.linkedin.com/company/medxstartup), and [Telegram](https://t.me/MedX_Media).
 - Joining our public Telegram [MedX Society Group](https://t.me/+Q3hJZwT1vWM2N2Q0).
-- [Want to Join our community?]()
+- [Want to Join our community?](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=sharing)
 
 Let's shape the future of healthcare!"
 
