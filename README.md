@@ -1,5 +1,5 @@
-# MedX .github
+# MedX .gitHub  
 
-You can find the English intro readme of the organization [here](https://github.com/MedX-Media/.github/blob/main/profile/README.md).
+You can access the organization's English introductory README [here](https://github.com/MedX-Media/.github/blob/main/profile/README.md).  
 
-Also, you can find the Persian intro readme of the organization [here](https://github.com/MedX-Media/.github/blob/main/profile/PersianREADME.md).
+For the Persian version, click [here](https://github.com/MedX-Media/.github/blob/main/profile/PersianREADME.md).
