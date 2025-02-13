@@ -46,7 +46,7 @@ This is a list sorted from day one, including all types of contributions!
 | 16     | Arman Gorji              | Writer / Presenter   | Sep 2023  | [Github](https://github.com/gorjiarman), Linkedin |
 | 17     | Amir Mahdi Dadashi       | Writer               | Sep 2023  |   |
 | 18     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor       | Nov 2023  | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
-| 19     | Iman Mohammadi       | Developer               | Dec 2023   | GitHub, LinkedIn  |
+| 19     | Iman Mohammadi       | Developer               | Dec 2023   | [Github](https://github.com/Imanm02), [Linkedin](https://www.linkedin.com/in/imanmohammadi02/) |
 | 20     | MohammadMahdi Dalirifar       | Writer               | Dec 2023   | GitHub, LinkedIn  |
 | 21 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
 
