@@ -56,8 +56,8 @@ As we told before, MedX is an open-source project where anyone can contribute an
 
 ### 🌐 Connect with Us
 
-- **Website**: [medxmedia.net](http://www.medxmedia.net)
-- **Telegram**: [@medxmedia_net](https://t.me/medxmedia_net)
+- **Website**: [medx.media](https://www.medx.media)
+- **Telegram**: [@medX_media](https://t.me/MedX_Media)
 - **Instagram**: [@medxmedia_net](https://www.instagram.com/medxmedia_net)
 - **LinkedIn**: [MedX on LinkedIn](https://www.linkedin.com/company/medxstartup)
 
