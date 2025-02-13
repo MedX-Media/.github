@@ -1,4 +1,4 @@
-[persian version | نسخه فارسی]()
+[persian version | نسخه فارسی](https://github.com/MedX-Media/.github/blob/main/profile/PersianREADME.md)
 
 # Welcome to MedX 🌟
 
