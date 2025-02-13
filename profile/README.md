@@ -31,7 +31,7 @@ This is a list sorted from day one, including all types of contributions!
 | 1      | Sina Moradi              | Founding Contributor | Jun 2023  | [Github](https://github.com/sinusealpha), [Linkedin](https://www.linkedin.com/in/sinusealpha/) |
 | 2      | Aref Asadi               | Founding Contributor | Jun 2023  | [Github](https://github.com/aref-asadi), [Linkedin]() |
 | 3      | Mohammad Hossein Kazemi  | Developer            | Jun 2023  | [Github](https://github.com/hossein-kazzemi) |
-| 4      | Dadmehr                  | Developer            | Jul 2023  | [Github](https://github.com/BDadmehr0) |
+| 4      | Dadmehr Emami            | Developer            | Jul 2023  | [Github](https://github.com/BDadmehr0) |
 | 5      | Benyamin Gheiji          | Writer / Presenter   | Aug 2023  | [Github](https://github.com/BenyGH2003), Linkedin |
 | 6      | Ava Khalili              | Writer               | Aug 2023  | [Github](https://github.com/AvaKhA), Linkedin |
 | 7      | Mohammad Hamidi          | Writer               | Aug 2023  | [Github](https://github.com/hamidics50) |
