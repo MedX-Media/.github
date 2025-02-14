@@ -59,7 +59,7 @@
 
 ### 🌐 با ما در ارتباط باشید
 
-- **وب‌سایت**: [medx.media](https://www.medx.media)
+- **وب‌سایت**: [medx.media](http://medx.media/)
 - **تلگرام**: [@medX_media](https://t.me/MedX_Media)
 - **اینستاگرام**: [@medxmedia_net](https://www.instagram.com/medxmedia_net)
 - **لینکدین**: [MedX در لینکدین](https://www.linkedin.com/company/medxstartup)
