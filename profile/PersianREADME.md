@@ -51,7 +51,8 @@
 | ۱۸   | فاطمه زهرا سیدکلبادی      | ارائه‌دهنده          | نوامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/Fatemeh-ZSK)، [لینکدین](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
 | ۱۹   | ایمان محمدی               | توسعه‌دهنده           | دسامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/Imanm02)، [لینکدین](https://www.linkedin.com/in/imanmohammadi02/) |
 | ۲۰   | محمدمهدی دلیر‌فر          | نویسنده              | دسامبر ۲۰۲۳  | گیت‌هاب، لینکدین |
-| ۲۱   | [شما می‌توانید نفر بعدی باشید](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header) |   |   |   |
+| ۲۱   | سپهر اخوان               | نویسنده              | دسامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/SepehrAkMD) لینکدین |
+| ۲۲   | [شما می‌توانید نفر بعدی باشید](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header) |   |   |   |
 
 همان‌طور که قبلاً گفتیم، مدیکس یک پروژه‌ی متن‌باز است که هر کسی می‌تواند در آن مشارکت کند و شما نیز می‌توانید یکی از مشارکت‌کنندگان ما باشید! برای این منظور، به [سند مشارکت](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) مراجعه کنید و سفر خود را آغاز کنید!
 
