@@ -28,28 +28,28 @@ Let's shape the future of healthcare!"
 This is a list sorted from day one, including all types of contributions!
 | Number | Name                     | Role                 | Contributor Since            | Links                 |
 | ------ | ------------------------ | ------------------   | ----------------------- | --------------------- |
-| 1      | Sina Moradi              | Founding Contributor | Jun 2023  | [Github](https://github.com/sinusealpha), [Linkedin](https://www.linkedin.com/in/sinusealpha/) |
-| 2      | Aref Asadi               | Founding Contributor | Jun 2023  | [Github](https://github.com/aref-asadi), [Linkedin]() |
-| 3      | Mohammad Hossein Kazemi  | Developer            | Jun 2023  | [Github](https://github.com/hossein-kazzemi) |
-| 4      | Dadmehr Emami            | Developer            | Jul 2023  | [Github](https://github.com/BDadmehr0) |
-| 5      | Benyamin Gheiji          | Writer / Presenter   | Aug 2023  | [Github](https://github.com/BenyGH2003), Linkedin |
-| 6      | Ava Khalili              | Writer               | Aug 2023  | [Github](https://github.com/AvaKhA), Linkedin |
-| 7      | Mohammad Hamidi          | Writer               | Aug 2023  | [Github](https://github.com/hamidics50) |
-| 8      | Shayan Bakhshi           | Writer               | Aug 2023  | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
-| 9      | Sahba Saidinejad         | Writer / Presenter   | Aug 2023  | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
-| 10     | Melina Sadat Afsari      | Writer               | Aug 2023  | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
-| 11     | Sina Khosravi            | Writer               | Aug 2023  | [Github](https://github.com/khosravisina), Linkedin |
-| 12     | Fatemeh Zakerian         | Writer               | Sep 2023  | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
-| 13     | Ali Najafi               | Writer               | Sep 2023  | [Github](https://github.com/S-AliNajafi), Linkedin         |
-| 14     | Negin Vaez               | Writer               | Sep 2023  |   |
-| 15     | Farnad Rahimizadeh       | Writer               | Sep 2023  | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
-| 16     | Arman Gorji              | Writer / Presenter   | Sep 2023  | [Github](https://github.com/gorjiarman), Linkedin |
-| 17     | Sina Rahimian            | Writer               | Sep 2023   | [Github](https://github.com/srssina), [Linkedin](https://linkedin.com/in/sinarahimian) |
-| 18     | Amir Mahdi Dadashi       | Writer               | Sep 2023  |   |
-| 19     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor       | Nov 2023  | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
-| 20     | Iman Mohammadi       | Developer               | Dec 2023   | [Github](https://github.com/Imanm02), [Linkedin](https://www.linkedin.com/in/imanmohammadi02/) |
-| 21     | MohammadMahdi Dalirifar  | Writer               | Dec 2023   | GitHub, LinkedIn  |
-| 22     | Sepehr Akhavan           | Writer               | Dec 2023   | [Github](https://github.com/SepehrAkMD), LinkedIn  |
+| 1      | Sina Moradi              | Founding Contributor | Jun 2024  | [Github](https://github.com/sinusealpha), [Linkedin](https://www.linkedin.com/in/sinusealpha/) |
+| 2      | Aref Asadi               | Founding Contributor | Jun 2024  | [Github](https://github.com/aref-asadi), [Linkedin]() |
+| 3      | Mohammad Hossein Kazemi  | Developer            | Jun 2024  | [Github](https://github.com/hossein-kazzemi) |
+| 4      | Dadmehr Emami            | Developer            | Jul 2024  | [Github](https://github.com/BDadmehr0) |
+| 5      | Benyamin Gheiji          | Writer / Presenter   | Aug 2024  | [Github](https://github.com/BenyGH2003), Linkedin |
+| 6      | Ava Khalili              | Writer               | Aug 2024  | [Github](https://github.com/AvaKhA), Linkedin |
+| 7      | Mohammad Hamidi          | Writer               | Aug 2024  | [Github](https://github.com/hamidics50) |
+| 8      | Shayan Bakhshi           | Writer               | Aug 2024  | [Github](https://github.com/ShayanpharmaKUMS), Linkedin |
+| 9      | Sahba Saidinejad         | Writer / Presenter   | Aug 2024  | [Github](https://github.com/saidinejad), [Linkedin](https://www.linkedin.com/in/sahba-saeidinejad) |
+| 10     | Melina Sadat Afsari      | Writer               | Aug 2024  | [Github](https://github.com/Melina-Sadat-Afsari), Linkedin |
+| 11     | Sina Khosravi            | Writer               | Aug 2024  | [Github](https://github.com/khosravisina), Linkedin |
+| 12     | Fatemeh Zakerian         | Writer               | Sep 2024  | Github, [Linkedin](https://www.linkedin.com/in/ftme-zakerian/) |
+| 13     | Ali Najafi               | Writer               | Sep 2024  | [Github](https://github.com/S-AliNajafi), Linkedin         |
+| 14     | Negin Vaez               | Writer               | Sep 2024  |   |
+| 15     | Farnad Rahimizadeh       | Writer               | Sep 2024  | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
+| 16     | Arman Gorji              | Writer / Presenter   | Sep 2024  | [Github](https://github.com/gorjiarman), Linkedin |
+| 17     | Sina Rahimian            | Writer               | Sep 2024   | [Github](https://github.com/srssina), [Linkedin](https://linkedin.com/in/sinarahimian) |
+| 18     | Amir Mahdi Dadashi       | Writer               | Sep 2024  |   |
+| 19     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor       | Nov 2024  | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| 20     | Iman Mohammadi       | Developer               | Dec 2024   | [Github](https://github.com/Imanm02), [Linkedin](https://www.linkedin.com/in/imanmohammadi02/) |
+| 21     | MohammadMahdi Dalirifar  | Writer               | Dec 2024   | GitHub, LinkedIn  |
+| 22     | Sepehr Akhavan           | Writer               | Dec 2024   | [Github](https://github.com/SepehrAkMD), LinkedIn  |
 | 23 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!

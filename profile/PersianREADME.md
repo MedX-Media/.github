@@ -31,28 +31,28 @@
 
 | شماره | نام                       | نقش                   | از چه زمانی مشارکت دارد | لینک‌ها                 |
 |------|---------------------------|----------------------|----------------------|----------------------|
-| ۱    | سینا مرادی                | مشارکت‌کننده‌ی بنیان‌گذار | ژوئن ۲۰۲۳  | [گیت‌هاب](https://github.com/sinusealpha)، [لینکدین](https://www.linkedin.com/in/sinusealpha/) |
-| ۲    | عارف اسدی                 | مشارکت‌کننده‌ی بنیان‌گذار | ژوئن ۲۰۲۳  | [گیت‌هاب](https://github.com/aref-asadi)، لینکدین |
-| ۳    | محمدحسین کاظمی            | توسعه‌دهنده           | ژوئن ۲۰۲۳  | [گیت‌هاب](https://github.com/hossein-kazzemi) |
-| ۴    | دادمهر امامی                    | توسعه‌دهنده           | جولای ۲۰۲۳  | [گیت‌هاب](https://github.com/BDadmehr0) |
-| ۵    | بنیامین قیجی              | نویسنده / ارائه‌دهنده  | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/BenyGH2003)، لینکدین |
-| ۶    | آوا خلیلی                 | نویسنده              | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/AvaKhA)، لینکدین |
-| ۷    | محمد حمیدی                | نویسنده              | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/hamidics50) |
-| ۸    | شایان بخشی                | نویسنده              | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/ShayanpharmaKUMS)، لینکدین |
-| ۹    | صهبا سعیدی‌نژاد           | نویسنده / ارائه‌دهنده  | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/saidinejad)، [لینکدین](https://www.linkedin.com/in/sahba-saeidinejad) |
-| ۱۰   | ملینا سادات افسری         | نویسنده              | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/Melina-Sadat-Afsari)، لینکدین |
-| ۱۱   | سینا خسروی                | نویسنده              | آگوست ۲۰۲۳  | [گیت‌هاب](https://github.com/khosravisina)، لینکدین |
-| ۱۲   | فاطمه ذکریان              | نویسنده              | سپتامبر ۲۰۲۳  | گیت‌هاب، [لینکدین](https://www.linkedin.com/in/ftme-zakerian/) |
-| ۱۳   | علی نجفی                  | نویسنده              | سپتامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/S-AliNajafi)، لینکدین |
-| ۱۴   | نگین واعظ                 | نویسنده              | سپتامبر ۲۰۲۳  |   |
-| ۱۵   | فرناد رحیمی‌زاده          | نویسنده              | سپتامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/FarnadRahimizadeh)، لینکدین |
-| ۱۶   | آرمان گرچی                | نویسنده / ارائه‌دهنده | سپتامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/gorjiarman)، لینکدین |
-| ۱۷   | سینا رحیمیان      | ارائه‌دهنده          | سپتامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/srssina)، [لینکدین](https://www.linkedin.com/in/sinarahimian/) |
-| ۱۸   | امیرمهدی داداشی           | نویسنده              | سپتامبر ۲۰۲۳  |   |
-| ۱۹   | فاطمه زهرا سیدکلبادی      | ارائه‌دهنده          | نوامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/Fatemeh-ZSK)، [لینکدین](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
-| ۲۰   | ایمان محمدی               | توسعه‌دهنده           | دسامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/Imanm02)، [لینکدین](https://www.linkedin.com/in/imanmohammadi02/) |
-| ۲۱   | محمدمهدی دلیر‌فر          | نویسنده              | دسامبر ۲۰۲۳  | گیت‌هاب، لینکدین |
-| ۲۲   | سپهر اخوان               | نویسنده              | دسامبر ۲۰۲۳  | [گیت‌هاب](https://github.com/SepehrAkMD)، لینکدین |
+| ۱    | سینا مرادی                | مشارکت‌کننده‌ی بنیان‌گذار | ژوئن ۲۰۲۴  | [گیت‌هاب](https://github.com/sinusealpha)، [لینکدین](https://www.linkedin.com/in/sinusealpha/) |
+| ۲    | عارف اسدی                 | مشارکت‌کننده‌ی بنیان‌گذار | ژوئن ۲۰۲۴  | [گیت‌هاب](https://github.com/aref-asadi)، لینکدین |
+| ۳    | محمدحسین کاظمی            | توسعه‌دهنده           | ژوئن ۲۰۲۴  | [گیت‌هاب](https://github.com/hossein-kazzemi) |
+| ۴    | دادمهر امامی                    | توسعه‌دهنده           | جولای ۲۰۲۴  | [گیت‌هاب](https://github.com/BDadmehr0) |
+| ۵    | بنیامین قیجی              | نویسنده / ارائه‌دهنده  | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/BenyGH2003)، لینکدین |
+| ۶    | آوا خلیلی                 | نویسنده              | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/AvaKhA)، لینکدین |
+| ۷    | محمد حمیدی                | نویسنده              | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/hamidics50) |
+| ۸    | شایان بخشی                | نویسنده              | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/ShayanpharmaKUMS)، لینکدین |
+| ۹    | صهبا سعیدی‌نژاد           | نویسنده / ارائه‌دهنده  | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/saidinejad)، [لینکدین](https://www.linkedin.com/in/sahba-saeidinejad) |
+| ۱۰   | ملینا سادات افسری         | نویسنده              | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/Melina-Sadat-Afsari)، لینکدین |
+| ۱۱   | سینا خسروی                | نویسنده              | آگوست ۲۰۲۴  | [گیت‌هاب](https://github.com/khosravisina)، لینکدین |
+| ۱۲   | فاطمه ذکریان              | نویسنده              | سپتامبر ۲۰۲۴  | گیت‌هاب، [لینکدین](https://www.linkedin.com/in/ftme-zakerian/) |
+| ۱۳   | علی نجفی                  | نویسنده              | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/S-AliNajafi)، لینکدین |
+| ۱۴   | نگین واعظ                 | نویسنده              | سپتامبر ۲۰۲۴  |   |
+| ۱۵   | فرناد رحیمی‌زاده          | نویسنده              | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/FarnadRahimizadeh)، لینکدین |
+| ۱۶   | آرمان گرچی                | نویسنده / ارائه‌دهنده | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/gorjiarman)، لینکدین |
+| ۱۷   | سینا رحیمیان      | ارائه‌دهنده          | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/srssina)، [لینکدین](https://www.linkedin.com/in/sinarahimian/) |
+| ۱۸   | امیرمهدی داداشی           | نویسنده              | سپتامبر ۲۰۲۴  |   |
+| ۱۹   | فاطمه زهرا سیدکلبادی      | ارائه‌دهنده          | نوامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Fatemeh-ZSK)، [لینکدین](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| ۲۰   | ایمان محمدی               | توسعه‌دهنده           | دسامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Imanm02)، [لینکدین](https://www.linkedin.com/in/imanmohammadi02/) |
+| ۲۱   | محمدمهدی دلیر‌فر          | نویسنده              | دسامبر ۲۰۲۴  | گیت‌هاب، لینکدین |
+| ۲۲   | سپهر اخوان               | نویسنده              | دسامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/SepehrAkMD)، لینکدین |
 | ۲۳   | [شما می‌توانید نفر بعدی باشید](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header) |   |   |   |
 
 همان‌طور که قبلاً گفتیم، مدیکس یک پروژه‌ی متن‌باز است که هر کسی می‌تواند در آن مشارکت کند و شما نیز می‌توانید یکی از مشارکت‌کنندگان ما باشید! برای این منظور، به [سند مشارکت](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) مراجعه کنید و سفر خود را آغاز کنید!
