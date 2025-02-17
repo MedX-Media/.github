@@ -44,12 +44,13 @@ This is a list sorted from day one, including all types of contributions!
 | 14     | Negin Vaez               | Writer               | Sep 2023  |   |
 | 15     | Farnad Rahimizadeh       | Writer               | Sep 2023  | [Github](https://github.com/FarnadRahimizadeh), Linkedin   |
 | 16     | Arman Gorji              | Writer / Presenter   | Sep 2023  | [Github](https://github.com/gorjiarman), Linkedin |
-| 17     | Amir Mahdi Dadashi       | Writer               | Sep 2023  |   |
-| 18     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor       | Nov 2023  | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
-| 19     | Iman Mohammadi       | Developer               | Dec 2023   | [Github](https://github.com/Imanm02), [Linkedin](https://www.linkedin.com/in/imanmohammadi02/) |
-| 20     | MohammadMahdi Dalirifar  | Writer               | Dec 2023   | GitHub, LinkedIn  |
-| 21     | Sepehr Akhavan           | Writer               | Dec 2023   | [Github](https://github.com/SepehrAkMD), LinkedIn  |
-| 22 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
+| 17     | Sina Rahimian            | Writer               | Sep 2023   | [Github](https://github.com/srssina), [Linkedin](https://linkedin.com/in/sinarahimian) |
+| 18     | Amir Mahdi Dadashi       | Writer               | Sep 2023  |   |
+| 19     | Fatemeh Zahra Seyed-Kolbadi  | Preseontor       | Nov 2023  | [Github](https://github.com/Fatemeh-ZSK), [Linkedin](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
+| 20     | Iman Mohammadi       | Developer               | Dec 2023   | [Github](https://github.com/Imanm02), [Linkedin](https://www.linkedin.com/in/imanmohammadi02/) |
+| 21     | MohammadMahdi Dalirifar  | Writer               | Dec 2023   | GitHub, LinkedIn  |
+| 22     | Sepehr Akhavan           | Writer               | Dec 2023   | [Github](https://github.com/SepehrAkMD), LinkedIn  |
+| 23 | [you can be the next](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header)  |         |   |  |
 
 As we told before, MedX is an open-source project where anyone can contribute and you yourself can be one of our contributors! For this purpose, go to the [contribution Document](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) and start your journey!
 
