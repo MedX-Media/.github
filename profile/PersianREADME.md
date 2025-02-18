@@ -49,10 +49,11 @@
 | ۱۶   | آرمان گرچی                | نویسنده / ارائه‌دهنده | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/gorjiarman)، لینکدین |
 | ۱۷   | سینا رحیمیان      | ارائه‌دهنده          | سپتامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/srssina)، [لینکدین](https://www.linkedin.com/in/sinarahimian/) |
 | ۱۸   | امیرمهدی داداشی           | نویسنده              | سپتامبر ۲۰۲۴  |   |
-| ۱۹   | فاطمه زهرا سیدکلبادی      | ارائه‌دهنده          | نوامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Fatemeh-ZSK)، [لینکدین](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
-| ۲۰   | ایمان محمدی               | توسعه‌دهنده           | دسامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Imanm02)، [لینکدین](https://www.linkedin.com/in/imanmohammadi02/) |
+| ۱۹   | ایمان محمدی               | توسعه‌دهنده           | اکتبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Imanm02)، [لینکدین](https://www.linkedin.com/in/imanmohammadi02/) |
+| ۲۰   | فاطمه زهرا سیدکلبادی      | ارائه‌دهنده          | نوامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/Fatemeh-ZSK)، [لینکدین](https://www.linkedin.com/in/fatemeh-zahra-seyed-kolbadi-606953213/) |
 | ۲۱   | محمدمهدی دلیر‌فر          | نویسنده              | دسامبر ۲۰۲۴  | گیت‌هاب، لینکدین |
 | ۲۲   | سپهر اخوان               | نویسنده              | دسامبر ۲۰۲۴  | [گیت‌هاب](https://github.com/SepehrAkMD)، لینکدین |
+| ۲۳    | سورنا دشتی           | نویسنده  | دسامبر ۲۰۲۴  | گیت‌هاب، [لینکدین](https://www.linkedin.com/in/sorena-d-0a55bb267/) |
 | ۲۳   | [شما می‌توانید نفر بعدی باشید](https://docs.google.com/forms/d/e/1FAIpQLSchy8Nra0ybRNamdficPhiwwv11_py6OKZAfjQFczpLP2tyUg/viewform?usp=header) |   |   |   |
 
 همان‌طور که قبلاً گفتیم، مدیکس یک پروژه‌ی متن‌باز است که هر کسی می‌تواند در آن مشارکت کند و شما نیز می‌توانید یکی از مشارکت‌کنندگان ما باشید! برای این منظور، به [سند مشارکت](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) مراجعه کنید و سفر خود را آغاز کنید!
